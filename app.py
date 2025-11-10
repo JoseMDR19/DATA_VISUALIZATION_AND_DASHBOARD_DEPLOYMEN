@@ -21,11 +21,6 @@ Original file is located at
 - Sube el archivo `university_student_data.csv` usando el botón de archivos o ejecuta la celda de upload.
 - Si el archivo ya está en un path local, la lectura intentará usarlo.
 
-#1) Instalación de librerías (ejecutar sólo si falta alguna)
-"""
-
-!pip install -q seaborn plotly streamlit pyngrok altair pandas
-
 """#2) Importar librerías"""
 
 import os
