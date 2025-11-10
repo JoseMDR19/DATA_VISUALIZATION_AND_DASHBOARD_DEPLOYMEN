@@ -25,6 +25,5 @@ El propósito es ayudar a la universidad a analizar y mejorar sus procesos de **
 
 ### Clonar el repositorio
 ```bash
-[git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
-](https://github.com/JoseMDR19/DATA_VISUALIZATION_AND_DASHBOARD_DEPLOYMEN?utm_source=chatgpt.com)
+
+https://github.com/JoseMDR19/DATA_VISUALIZATION_AND_DASHBOARD_DEPLOYMEN?utm_source=chatgpt.com
